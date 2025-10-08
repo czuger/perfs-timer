@@ -23,5 +23,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/perfs-timer"
-Repository = "https://github.com/yourusername/perfs-timer"
+Homepage = "https://github.com/czuger/perfs-timer"
+Repository = "https://github.com/czuger/perfs-timer"
